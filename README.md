@@ -44,4 +44,4 @@ Contact: s54799@edu.campus02.at
 
 ## Linking
 
-You can find the link to the _exersice1-file_ [here](https://educampus02-my.sharepoint.com/:t:/g/personal/s54799_edu_campus02_at/EYWlQhMf2mROo21KZPLDtHQBDFHILYsFywpNYm_-heZUNQ?e=eL7C4A).
+You can find the link to the _exersice1-file_ [here](exercise1.md).
