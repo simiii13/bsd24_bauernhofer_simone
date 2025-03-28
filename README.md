@@ -53,3 +53,8 @@ You can find the link to the _exersice1-file_ [here](exercise1.md).
 The content of _exercise2-file_ is about the correct handling and a first acquaintance with Github. In addition, the most commonly used terms are described and explained in the file.
 
 You can find the link to the _exercise2-file_ [here](exercise2.md).
+
+## Author Information
+Github profile: [simiii.13]
+
+[University of Applied Sciences FH Campus 02](https://www.campus02.at)
