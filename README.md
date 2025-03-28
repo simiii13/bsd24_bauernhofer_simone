@@ -55,7 +55,7 @@ The content of _exercise2-file_ is about the correct handling and a first acquai
 You can find the link to the _exercise2-file_ [here](exercise2.md).
 
 ### Exercise2_part2
-You can find the link to _exercise2_part2_ [here](exercise2_part2).
+You can find the link to _exercise2_part2_ [here](exercise2_part2.md).
 
 ## Author Information
 Github profile: [simiii.13](https://github.com/simiii13)
