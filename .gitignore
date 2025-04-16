@@ -1,4 +1,5 @@
 # Ignore all .html-files
 *.html
-# Ignore all .pdf-files
+# Ignore all .pdf-files & .idea folder
 *.pdf
+.idea/
