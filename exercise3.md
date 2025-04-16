@@ -15,7 +15,7 @@ First, I added the .idea folder to the .gitignore file & created a commit.
 Since the Git commands do not work properly in my terminal, I sometimes have problems with push & pull. Because of this, I also work with Github itself.
 
 ### Afterwards ...
-I created a package in Maven for the required Java class ‘Calculator’. Then it became apparent that a new folder called ... was created.
+I created a package in Maven for the required Java class ‘Calculator’. Then it became apparent that a new folder called 'target' was created.
 I took a screenshot of this and saved the image in the desired folder.
 
 Then I edited the pom.xml file & started my demo example. Then I added the desired plugin & did another run of my example where my name was visible afterwards.
