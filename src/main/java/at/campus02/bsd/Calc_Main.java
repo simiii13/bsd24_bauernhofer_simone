@@ -23,5 +23,6 @@ public class Calc_Main {
         System.out.println("Difference: " + calculator.subtract(num1, num2));
         System.out.println("Product: " + calculator.multiply(num1, num2));
         System.out.println("Quotient: " + calculator.divide(num1, num2));
+        System.out.println("Simone Bauernhofer");
     }
 }
