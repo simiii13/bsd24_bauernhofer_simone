@@ -3,3 +3,4 @@
 # Ignore all .pdf-files & .idea folder
 *.pdf
 .idea/
+*.log
