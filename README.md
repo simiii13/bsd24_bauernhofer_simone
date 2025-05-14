@@ -44,4 +44,8 @@ Contact: s54799@edu.campus02.at
 
 ## Linking
 
-You can find the link to the _exersice1-file_ [here](exercise1.md)
+You can find the link to the _exersice1-file_ [here](exercise1.md).
+
+References to _template-file_ [here](log4j2.template).
+
+The _exercise3-file_ can be found [here](exercise3.md).

@@ -25,8 +25,8 @@ After that I watched a lot of tutorials to understand Log4J at all.
 
 The aim of the exercise was then to save all messages in a file with at least the log level Debug. I tried a few steps, but was unable to implement them as desired. I paid attention to the correct storage location & the name of the configuration file.
 
-Afterwards I included a template & referenced this in my ReadMe.md. The content of the log file was recorded using a screenshot.
-Then, I linked the exercise3.md in my ReadMe,  created a new version & carried out the required pull request.
+Afterwards I included a template & referenced this in my README. The content of the log file was recorded using a screenshot.
+Then, I linked the exercise3-file in my ReadMe,  created a new version & carried out the required pull request.
 
 ### Finally ...
 I checked my repository on Github, provided it worked with the commands in the terminal. At the very end, I uploaded the link to my repository for evaluation.

@@ -1,32 +1,34 @@
 package at.campus02.bsd;
 import java.util.Scanner;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 public class Calculator {
 
+private static final Logger logger = LogManager.getLogger(Calculator.class);
+
     public double add(double num1, double num2) {
-        double result = 0;
-        result = num1 + num2;
-        return result;
+        logger.debug("add() called with the parameters: num1 = " + num1 + ", num2 = " + num2);
+        return num1 + num2;
     }
 
     public double subtract(double num1, double num2) {
-        double result = 0;
-        result = num1 - num2;
-        return result;
+        logger.debug("subtract() called with the parameters: num1 = " + num1 + ", num2 = " + num2);
+        return num1 - num2;
     }
 
     public double divide(double num1, double num2) {
-        double result = 0;
-        result = num1 / num2;
+        logger.debug("divide() called with the parameters: num1 = " + num1 + ", num2 = " + num2);
+
         if (num2 == 0) {
-            System.out.println("Division by zero");
+            logger.error("Attempt: Division by zero! num1 = " + num1 + ", num2 = " + num2);
+            return 0;
         }
-        return result;
+        return num1 / num2;
     }
 
     public double multiply(double num1, double num2) {
-        double result = 0;
-        result = num1 * num2;
-        return result;
+        logger.debug("multiply() called with the parameters: num1 = " + num1 + ", num2 = " + num2);
+        return num1 * num2;
     }
 }
