@@ -1,4 +1,4 @@
-﻿# Übung 5 – Konfigurationsmanagement
+# Übung 5 – Konfigurationsmanagement
 
 ### Vorteile von Unit-Tests
 Unit Tests sind ein Kernbestandteil für die moderne Softwareentwicklung & bringen einige Vorteile mit sich.
@@ -14,9 +14,12 @@ Wenn Unit Tests gut geschrieben sind, dann zeigen sie, wie eine Methode gedacht 
 
 4. Automatisierung von Qualitätssicherung
 Man kann Unit Tests automatisch bei jedem Build oder Push laufen lassen. So wird vermieden, dass neue Fehler unbemerkt ins Programm kommen.
+conflict
+
 
 5. Modularisierung wird gefördert
 Um etwas testbar zu machen, muss Code oft gut strukturiert, klein und unabhängig sein - dies verbessert automatisch die Codequalität.
 
 6. Schnelle Rückmeldung
 Im Gegensatz zum manuellem Testen oder Integrationstests laufen Unit Tests in Millisekunden.
+
