@@ -76,4 +76,20 @@ public class CalculatorTest {
     void testDivide_ByZero() {
         assertEquals(0, calc.divide(1, 0));
     }
+
+    //Tests for Method: factorial
+    @Test
+    void testFactorialOfZero() {
+        assertEquals(1, calc.factorial(0));
+    }
+
+    @Test
+    void testFactorialOfThree() {
+        assertEquals(6, calc.factorial(3));
+    }
+
+    @Test
+    void testFactorialNegative() {
+        assertEquals(0, calc.factorial(-5));    //Sonderfall
+    }
 }

@@ -31,4 +31,8 @@ private static final Logger logger = LogManager.getLogger(Calculator.class);
         logger.debug("multiply() called with the parameters: num1 = " + num1 + ", num2 = " + num2);
         return num1 * num2;
     }
+
+    public int factorial(int n) {
+        return 0; //placeholder
+    }
 }
