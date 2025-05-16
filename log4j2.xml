@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration xmlns="http://logging.apache.org/log4j/2.0/config"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNameSpaceSchemaLocation="https://logging.apache.org/log4j/2.0/config.xsd"
+status="WARN">
+    <Appenders>
+        <File name="FileAppender" fileName="logs/myapp.log" append="true">
+            <PatternLayout pattern="%d [%t] %-5level %logger{36} - %msg%n"/>
+        </File>
+        <Console name="ConsoleAppender" target="SYSTEM_OUT">
+        <PatternLayout pattern="%d [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+    </Appenders>
+
+    <Loggers>
+    <Root level="debug">
+        <AppenderRef ref="FileAppender"/>
+        <AppenderRef ref="ConsoleAppender"/>
+    </Root>
+    </Loggers>
+</Configuration>

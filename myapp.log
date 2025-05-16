@@ -1,0 +1,8 @@
+2025-04-17 12:47:32,815 [main] DEBUG at.campus02.bsd.Calculator - add() called with the parameters: num1 = 3.0, num2 = 5.0
+2025-04-17 12:47:32,817 [main] DEBUG at.campus02.bsd.Calculator - subtract() called with the parameters: num1 = 3.0, num2 = 5.0
+2025-04-17 12:47:32,817 [main] DEBUG at.campus02.bsd.Calculator - multiply() called with the parameters: num1 = 3.0, num2 = 5.0
+2025-04-17 12:47:32,817 [main] DEBUG at.campus02.bsd.Calculator - divide() called with the parameters: num1 = 3.0, num2 = 5.0
+2025-04-17 12:49:05,801 [main] DEBUG at.campus02.bsd.Calculator - add() called with the parameters: num1 = 8.0, num2 = 9.0
+2025-04-17 12:49:05,802 [main] DEBUG at.campus02.bsd.Calculator - subtract() called with the parameters: num1 = 8.0, num2 = 9.0
+2025-04-17 12:49:05,802 [main] DEBUG at.campus02.bsd.Calculator - multiply() called with the parameters: num1 = 8.0, num2 = 9.0
+2025-04-17 12:49:05,803 [main] DEBUG at.campus02.bsd.Calculator - divide() called with the parameters: num1 = 8.0, num2 = 9.0

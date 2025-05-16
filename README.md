@@ -42,10 +42,7 @@ Contact: s54799@edu.campus02.at
 
 **Free Software!**
 
-## Linked Exercises
-
-### Exercise1
-The aim of the first exercise was to get to know the Markdown language better. In addition, the use & correct creation of a ReadMe was explained in more detail.
+## Linking
 
 You can find the link to the _exersice1-file_ [here](exercise1.md).
 
@@ -60,4 +57,6 @@ You can find the link to _exercise2_part2_ [here](exercise2_part2.md).
 ## Author Information
 Github profile: [simiii.13](https://github.com/simiii13)
 
-[University of Applied Sciences FH Campus 02](https://www.campus02.at)
+References to _template-file_ [here](log4j2.template).
+
+The _exercise3-file_ can be found [here](exercise3.md).
