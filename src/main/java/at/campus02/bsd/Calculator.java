@@ -33,6 +33,8 @@ private static final Logger logger = LogManager.getLogger(Calculator.class);
     }
 
     public int factorial(int n) {
-        return 0; //placeholder
+        if (n < 0) return 0;
+        if (n == 0) return 1;
+        return n * factorial(n - 1);
     }
 }
