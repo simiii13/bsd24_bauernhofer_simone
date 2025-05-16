@@ -46,6 +46,17 @@ Contact: s54799@edu.campus02.at
 
 You can find the link to the _exersice1-file_ [here](exercise1.md).
 
+### Exercise2
+The content of _exercise2-file_ is about the correct handling and a first acquaintance with Github. In addition, the most commonly used terms are described and explained in the file.
+
+You can find the link to the _exercise2-file_ [here](exercise2.md).
+
+### Exercise2_part2
+You can find the link to _exercise2_part2_ [here](exercise2_part2.md).
+
+## Author Information
+Github profile: [simiii.13](https://github.com/simiii13)
+
 References to _template-file_ [here](log4j2.template).
 
 The _exercise3-file_ can be found [here](exercise3.md).
