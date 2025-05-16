@@ -23,3 +23,11 @@ Um etwas testbar zu machen, muss Code oft gut strukturiert, klein und unabhängi
 6. Schnelle Rückmeldung
 Im Gegensatz zum manuellem Testen oder Integrationstests laufen Unit Tests in Millisekunden.
 
+### Überprüfte Testfälle
+In meiner Test-Class werden zunächst Standardfälle, also Normalfälle, für jede Methode überprüft mit dem Ziel, dass die Methoden auch unter gewöhnlichen Bedingungen korrekt funktionieren.
+
+Weiters wurden auch Randfälle bzw. Sonderfälle überprüft, wie zum Beispiel eine Division durch Null, um zu sehen, ob der Code auch in Ausnahmesituationen korrekt reagiert.
+
+Ebenso wurde auf Fehlerfälle, also ungültige Eingaben, überprüft, um sicherzustellen, dass der Code nicht abstürzt, sondern kontrolliert auf Fehler reagiert.
+
+Auch die Mischung verschiedener Eingaben wurde getestet, um zu prüfen, dass die Rechenlogik auch bei negativen oder gemischten Zahlen korrekt arbeitet.
